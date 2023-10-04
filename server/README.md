@@ -50,7 +50,7 @@ To get a local copy of the project up and running, follow these steps:
 
 To set up the project locally, you need to have Java 11 or higher and a MySQL database installed. Here's how you can set it up:
 
-1. Clone the repository: https://github.com/pradeep8577/Spring-Boot-CRUD/
+1. Clone the repository: https://github.com/pradeep8577/Student-Management/server
 
 2. Open the project in your IDE.
 
